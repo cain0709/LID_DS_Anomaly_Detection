@@ -1,0 +1,1000 @@
+threshold : 5.000000e-07
+Data count(Normal_and_Attack) : 120
+anomaly_count : 119
+Data count(Only Normal) : 758
+false_positive_count : 758
+Recall : 0.9916666666666667
+Precision : 0.1356898517658416
+FPR(False Positive Rate) : 1.0
+F1 score : 0.23871614632545585
+----------------------------------
+threshold : 1.000000e-06
+Data count(Normal_and_Attack) : 120
+anomaly_count : 120
+Data count(Only Normal) : 758
+false_positive_count : 751
+Recall : 1.0
+Precision : 0.13777267508452615
+FPR(False Positive Rate) : 0.9907651715039578
+F1 score : 0.24217961441795538
+----------------------------------
+threshold : 1.500000e-06
+Data count(Normal_and_Attack) : 120
+anomaly_count : 120
+Data count(Only Normal) : 758
+false_positive_count : 734
+Recall : 1.0
+Precision : 0.1405152224807902
+FPR(False Positive Rate) : 0.9683377308707124
+F1 score : 0.2464065686788746
+----------------------------------
+threshold : 2.000000e-06
+Data count(Normal_and_Attack) : 120
+anomaly_count : 120
+Data count(Only Normal) : 758
+false_positive_count : 712
+Recall : 1.0
+Precision : 0.1442307692290357
+FPR(False Positive Rate) : 0.9393139841688655
+F1 score : 0.25210083813025214
+----------------------------------
+threshold : 2.500000e-06
+Data count(Normal_and_Attack) : 120
+anomaly_count : 120
+Data count(Only Normal) : 758
+false_positive_count : 671
+Recall : 1.0
+Precision : 0.15170670037734885
+FPR(False Positive Rate) : 0.8852242744063324
+F1 score : 0.2634467595098811
+----------------------------------
+threshold : 3.000000e-06
+Data count(Normal_and_Attack) : 120
+anomaly_count : 120
+Data count(Only Normal) : 758
+false_positive_count : 594
+Recall : 1.0
+Precision : 0.16806722688840242
+FPR(False Positive Rate) : 0.783641160949868
+F1 score : 0.2877697817055708
+----------------------------------
+threshold : 3.500000e-06
+Data count(Normal_and_Attack) : 120
+anomaly_count : 120
+Data count(Only Normal) : 758
+false_positive_count : 576
+Recall : 1.0
+Precision : 0.17241379310097107
+FPR(False Positive Rate) : 0.7598944591029023
+F1 score : 0.2941176445465687
+----------------------------------
+threshold : 4.000000e-06
+Data count(Normal_and_Attack) : 120
+anomaly_count : 120
+Data count(Only Normal) : 758
+false_positive_count : 568
+Recall : 1.0
+Precision : 0.17441860464862763
+FPR(False Positive Rate) : 0.7493403693931399
+F1 score : 0.29702970043745713
+----------------------------------
+threshold : 4.500000e-06
+Data count(Normal_and_Attack) : 120
+anomaly_count : 120
+Data count(Only Normal) : 758
+false_positive_count : 563
+Recall : 1.0
+Precision : 0.17569546119801324
+FPR(False Positive Rate) : 0.7427440633245382
+F1 score : 0.2988792004429219
+----------------------------------
+threshold : 5.000000e-06
+Data count(Normal_and_Attack) : 120
+anomaly_count : 120
+Data count(Only Normal) : 758
+false_positive_count : 558
+Recall : 1.0
+Precision : 0.17699115043986738
+FPR(False Positive Rate) : 0.7361477572559367
+F1 score : 0.300751877140219
+----------------------------------
+threshold : 5.500000e-06
+Data count(Normal_and_Attack) : 120
+anomaly_count : 120
+Data count(Only Normal) : 758
+false_positive_count : 544
+Recall : 1.0
+Precision : 0.18072289156354332
+FPR(False Positive Rate) : 0.7176781002638523
+F1 score : 0.30612244638301755
+----------------------------------
+threshold : 6.000000e-06
+Data count(Normal_and_Attack) : 120
+anomaly_count : 120
+Data count(Only Normal) : 758
+false_positive_count : 535
+Recall : 1.0
+Precision : 0.18320610686743197
+FPR(False Positive Rate) : 0.7058047493403694
+F1 score : 0.30967741673356924
+----------------------------------
+threshold : 6.500000e-06
+Data count(Normal_and_Attack) : 120
+anomaly_count : 120
+Data count(Only Normal) : 758
+false_positive_count : 529
+Recall : 1.0
+Precision : 0.18489984591394606
+FPR(False Positive Rate) : 0.6978891820580475
+F1 score : 0.312093625450444
+----------------------------------
+threshold : 7.000000e-06
+Data count(Normal_and_Attack) : 120
+anomaly_count : 120
+Data count(Only Normal) : 758
+false_positive_count : 523
+Recall : 1.0
+Precision : 0.18662519439834174
+FPR(False Positive Rate) : 0.6899736147757256
+F1 score : 0.3145478348287182
+----------------------------------
+threshold : 7.500000e-06
+Data count(Normal_and_Attack) : 120
+anomaly_count : 120
+Data count(Only Normal) : 758
+false_positive_count : 516
+Recall : 1.0
+Precision : 0.1886792452800522
+FPR(False Positive Rate) : 0.6807387862796834
+F1 score : 0.3174603147854203
+----------------------------------
+threshold : 8.000000e-06
+Data count(Normal_and_Attack) : 120
+anomaly_count : 120
+Data count(Only Normal) : 758
+false_positive_count : 512
+Recall : 1.0
+Precision : 0.18987341771851465
+FPR(False Positive Rate) : 0.6754617414248021
+F1 score : 0.31914893348375967
+----------------------------------
+threshold : 8.500000e-06
+Data count(Normal_and_Attack) : 120
+anomaly_count : 120
+Data count(Only Normal) : 758
+false_positive_count : 503
+Recall : 1.0
+Precision : 0.19261637238856152
+FPR(False Positive Rate) : 0.6635883905013192
+F1 score : 0.32301480213241945
+----------------------------------
+threshold : 9.000000e-06
+Data count(Normal_and_Attack) : 120
+anomaly_count : 120
+Data count(Only Normal) : 758
+false_positive_count : 497
+Recall : 1.0
+Precision : 0.19448946515081864
+FPR(False Positive Rate) : 0.6556728232189973
+F1 score : 0.32564450201834055
+----------------------------------
+threshold : 9.500000e-06
+Data count(Normal_and_Attack) : 120
+anomaly_count : 120
+Data count(Only Normal) : 758
+false_positive_count : 487
+Recall : 1.0
+Precision : 0.19769357495555695
+FPR(False Positive Rate) : 0.6424802110817942
+F1 score : 0.3301237936627886
+----------------------------------
+threshold : 1.000000e-05
+Data count(Normal_and_Attack) : 120
+anomaly_count : 120
+Data count(Only Normal) : 758
+false_positive_count : 479
+Recall : 1.0
+Precision : 0.2003338898130161
+FPR(False Positive Rate) : 0.6319261213720316
+F1 score : 0.333796937409205
+----------------------------------
+threshold : 1.050000e-05
+Data count(Normal_and_Attack) : 120
+anomaly_count : 120
+Data count(Only Normal) : 758
+false_positive_count : 472
+Recall : 1.0
+Precision : 0.20270270269927868
+FPR(False Positive Rate) : 0.6226912928759895
+F1 score : 0.3370786488779826
+----------------------------------
+threshold : 1.100000e-05
+Data count(Normal_and_Attack) : 120
+anomaly_count : 120
+Data count(Only Normal) : 758
+false_positive_count : 455
+Recall : 1.0
+Precision : 0.20869565217028355
+FPR(False Positive Rate) : 0.600263852242744
+F1 score : 0.3453237381452306
+----------------------------------
+threshold : 1.150000e-05
+Data count(Normal_and_Attack) : 120
+anomaly_count : 120
+Data count(Only Normal) : 758
+false_positive_count : 443
+Recall : 1.0
+Precision : 0.21314387210989086
+FPR(False Positive Rate) : 0.5844327176781002
+F1 score : 0.3513909194994952
+----------------------------------
+threshold : 1.200000e-05
+Data count(Normal_and_Attack) : 120
+anomaly_count : 120
+Data count(Only Normal) : 758
+false_positive_count : 434
+Recall : 1.0
+Precision : 0.21660649819103597
+FPR(False Positive Rate) : 0.5725593667546174
+F1 score : 0.3560830831212743
+----------------------------------
+threshold : 1.250000e-05
+Data count(Normal_and_Attack) : 120
+anomaly_count : 120
+Data count(Only Normal) : 758
+false_positive_count : 421
+Recall : 1.0
+Precision : 0.22181146025468002
+FPR(False Positive Rate) : 0.5554089709762533
+F1 score : 0.36308623000313567
+----------------------------------
+threshold : 1.300000e-05
+Data count(Normal_and_Attack) : 120
+anomaly_count : 120
+Data count(Only Normal) : 758
+false_positive_count : 411
+Recall : 1.0
+Precision : 0.22598870056071585
+FPR(False Positive Rate) : 0.5422163588390502
+F1 score : 0.3686635914573114
+----------------------------------
+threshold : 1.350000e-05
+Data count(Normal_and_Attack) : 120
+anomaly_count : 120
+Data count(Only Normal) : 758
+false_positive_count : 390
+Recall : 1.0
+Precision : 0.2352941176424452
+FPR(False Positive Rate) : 0.5145118733509235
+F1 score : 0.3809523778624339
+----------------------------------
+threshold : 1.400000e-05
+Data count(Normal_and_Attack) : 120
+anomaly_count : 120
+Data count(Only Normal) : 758
+false_positive_count : 373
+Recall : 1.0
+Precision : 0.24340770790581323
+FPR(False Positive Rate) : 0.4920844327176781
+F1 score : 0.3915171257192584
+----------------------------------
+threshold : 1.450000e-05
+Data count(Normal_and_Attack) : 120
+anomaly_count : 120
+Data count(Only Normal) : 758
+false_positive_count : 364
+Recall : 1.0
+Precision : 0.24793388429239804
+FPR(False Positive Rate) : 0.48021108179419525
+F1 score : 0.3973509901868339
+----------------------------------
+threshold : 1.500000e-05
+Data count(Normal_and_Attack) : 120
+anomaly_count : 120
+Data count(Only Normal) : 758
+false_positive_count : 348
+Recall : 1.0
+Precision : 0.25641025640477755
+FPR(False Positive Rate) : 0.45910290237467016
+F1 score : 0.4081632620505345
+----------------------------------
+threshold : 1.550000e-05
+Data count(Normal_and_Attack) : 120
+anomaly_count : 120
+Data count(Only Normal) : 758
+false_positive_count : 339
+Recall : 1.0
+Precision : 0.2614379084910362
+FPR(False Positive Rate) : 0.4472295514511873
+F1 score : 0.41450776872757217
+----------------------------------
+threshold : 1.600000e-05
+Data count(Normal_and_Attack) : 120
+anomaly_count : 120
+Data count(Only Normal) : 758
+false_positive_count : 317
+Recall : 1.0
+Precision : 0.27459954232781236
+FPR(False Positive Rate) : 0.4182058047493404
+F1 score : 0.43087970935861203
+----------------------------------
+threshold : 1.650000e-05
+Data count(Normal_and_Attack) : 120
+anomaly_count : 120
+Data count(Only Normal) : 758
+false_positive_count : 304
+Recall : 1.0
+Precision : 0.2830188679178533
+FPR(False Positive Rate) : 0.40105540897097625
+F1 score : 0.4411764671415441
+----------------------------------
+threshold : 1.700000e-05
+Data count(Normal_and_Attack) : 120
+anomaly_count : 120
+Data count(Only Normal) : 758
+false_positive_count : 290
+Recall : 1.0
+Precision : 0.29268292682212965
+FPR(False Positive Rate) : 0.38258575197889183
+F1 score : 0.45283018516767537
+----------------------------------
+threshold : 1.750000e-05
+Data count(Normal_and_Attack) : 120
+anomaly_count : 120
+Data count(Only Normal) : 758
+false_positive_count : 281
+Recall : 1.0
+Precision : 0.2992518703167269
+FPR(False Positive Rate) : 0.370712401055409
+F1 score : 0.46065258761646183
+----------------------------------
+threshold : 1.800000e-05
+Data count(Normal_and_Attack) : 120
+anomaly_count : 120
+Data count(Only Normal) : 758
+false_positive_count : 269
+Recall : 1.0
+Precision : 0.3084832904805017
+FPR(False Positive Rate) : 0.3548812664907652
+F1 score : 0.4715127665247549
+----------------------------------
+threshold : 1.850000e-05
+Data count(Normal_and_Attack) : 120
+anomaly_count : 120
+Data count(Only Normal) : 758
+false_positive_count : 252
+Recall : 1.0
+Precision : 0.3225806451526188
+FPR(False Positive Rate) : 0.3324538258575198
+F1 score : 0.48780487435058506
+----------------------------------
+threshold : 1.900000e-05
+Data count(Normal_and_Attack) : 120
+anomaly_count : 120
+Data count(Only Normal) : 758
+false_positive_count : 245
+Recall : 1.0
+Precision : 0.3287671232786639
+FPR(False Positive Rate) : 0.3232189973614776
+F1 score : 0.49484535709044536
+----------------------------------
+threshold : 1.950000e-05
+Data count(Normal_and_Attack) : 120
+anomaly_count : 120
+Data count(Only Normal) : 758
+false_positive_count : 225
+Recall : 1.0
+Precision : 0.3478260869464398
+FPR(False Positive Rate) : 0.29683377308707126
+F1 score : 0.5161290284176205
+----------------------------------
+threshold : 2.000000e-05
+Data count(Normal_and_Attack) : 120
+anomaly_count : 120
+Data count(Only Normal) : 758
+false_positive_count : 210
+Recall : 1.0
+Precision : 0.36363636362534435
+FPR(False Positive Rate) : 0.2770448548812665
+F1 score : 0.5333333294103704
+----------------------------------
+threshold : 2.050000e-05
+Data count(Normal_and_Attack) : 120
+anomaly_count : 120
+Data count(Only Normal) : 758
+false_positive_count : 203
+Recall : 1.0
+Precision : 0.37151702785227503
+FPR(False Positive Rate) : 0.2678100263852243
+F1 score : 0.5417607183853167
+----------------------------------
+threshold : 2.100000e-05
+Data count(Normal_and_Attack) : 120
+anomaly_count : 120
+Data count(Only Normal) : 758
+false_positive_count : 201
+Recall : 1.0
+Precision : 0.3738317756892887
+FPR(False Positive Rate) : 0.26517150395778366
+F1 score : 0.544217683101177
+----------------------------------
+threshold : 2.150000e-05
+Data count(Normal_and_Attack) : 120
+anomaly_count : 10
+Data count(Only Normal) : 758
+false_positive_count : 195
+Recall : 0.08333333333333333
+Precision : 0.04878048780249851
+FPR(False Positive Rate) : 0.25725593667546176
+F1 score : 0.061538456878580235
+----------------------------------
+threshold : 2.200000e-05
+Data count(Normal_and_Attack) : 120
+anomaly_count : 2
+Data count(Only Normal) : 758
+false_positive_count : 186
+Recall : 0.016666666666666666
+Precision : 0.010638297871774558
+FPR(False Positive Rate) : 0.24538258575197888
+F1 score : 0.012987008230310395
+----------------------------------
+threshold : 2.250000e-05
+Data count(Normal_and_Attack) : 120
+anomaly_count : 2
+Data count(Only Normal) : 758
+false_positive_count : 183
+Recall : 0.016666666666666666
+Precision : 0.010810810810226442
+FPR(False Positive Rate) : 0.24142480211081793
+F1 score : 0.013114749325021892
+----------------------------------
+threshold : 2.300000e-05
+Data count(Normal_and_Attack) : 120
+anomaly_count : 2
+Data count(Only Normal) : 758
+false_positive_count : 176
+Recall : 0.016666666666666666
+Precision : 0.011235955055548542
+FPR(False Positive Rate) : 0.23218997361477572
+F1 score : 0.013422813980903486
+----------------------------------
+threshold : 2.350000e-05
+Data count(Normal_and_Attack) : 120
+anomaly_count : 2
+Data count(Only Normal) : 758
+false_positive_count : 171
+Recall : 0.016666666666666666
+Precision : 0.011560693640950248
+FPR(False Positive Rate) : 0.22559366754617413
+F1 score : 0.013651872296242786
+----------------------------------
+threshold : 2.400000e-05
+Data count(Normal_and_Attack) : 120
+anomaly_count : 2
+Data count(Only Normal) : 758
+false_positive_count : 163
+Recall : 0.016666666666666666
+Precision : 0.012121212120477502
+FPR(False Positive Rate) : 0.21503957783641162
+F1 score : 0.014035082843461218
+----------------------------------
+threshold : 2.450000e-05
+Data count(Normal_and_Attack) : 120
+anomaly_count : 2
+Data count(Only Normal) : 758
+false_positive_count : 156
+Recall : 0.016666666666666666
+Precision : 0.012658227847300111
+FPR(False Positive Rate) : 0.20580474934036938
+F1 score : 0.014388484301538862
+----------------------------------
+threshold : 2.500000e-05
+Data count(Normal_and_Attack) : 120
+anomaly_count : 2
+Data count(Only Normal) : 758
+false_positive_count : 154
+Recall : 0.016666666666666666
+Precision : 0.012820512819690991
+FPR(False Positive Rate) : 0.20316622691292877
+F1 score : 0.014492748707731134
+----------------------------------
+threshold : 2.550000e-05
+Data count(Normal_and_Attack) : 120
+anomaly_count : 2
+Data count(Only Normal) : 758
+false_positive_count : 151
+Recall : 0.016666666666666666
+Precision : 0.013071895423982228
+FPR(False Positive Rate) : 0.19920844327176782
+F1 score : 0.014652009724538412
+----------------------------------
+threshold : 2.600000e-05
+Data count(Normal_and_Attack) : 120
+anomaly_count : 1
+Data count(Only Normal) : 758
+false_positive_count : 150
+Recall : 0.008333333333333333
+Precision : 0.006622516555852813
+FPR(False Positive Rate) : 0.19788918205804748
+F1 score : 0.007380068865895649
+----------------------------------
+threshold : 2.650000e-05
+Data count(Normal_and_Attack) : 120
+anomaly_count : 0
+Data count(Only Normal) : 758
+false_positive_count : 148
+Recall : 0.0
+Precision : 0.0
+FPR(False Positive Rate) : 0.19525065963060687
+F1 score : 0.0
+----------------------------------
+threshold : 2.700000e-05
+Data count(Normal_and_Attack) : 120
+anomaly_count : 0
+Data count(Only Normal) : 758
+false_positive_count : 147
+Recall : 0.0
+Precision : 0.0
+FPR(False Positive Rate) : 0.19393139841688653
+F1 score : 0.0
+----------------------------------
+threshold : 2.750000e-05
+Data count(Normal_and_Attack) : 120
+anomaly_count : 0
+Data count(Only Normal) : 758
+false_positive_count : 146
+Recall : 0.0
+Precision : 0.0
+FPR(False Positive Rate) : 0.19261213720316622
+F1 score : 0.0
+----------------------------------
+threshold : 2.800000e-05
+Data count(Normal_and_Attack) : 120
+anomaly_count : 0
+Data count(Only Normal) : 758
+false_positive_count : 143
+Recall : 0.0
+Precision : 0.0
+FPR(False Positive Rate) : 0.18865435356200527
+F1 score : 0.0
+----------------------------------
+threshold : 2.850000e-05
+Data count(Normal_and_Attack) : 120
+anomaly_count : 0
+Data count(Only Normal) : 758
+false_positive_count : 141
+Recall : 0.0
+Precision : 0.0
+FPR(False Positive Rate) : 0.18601583113456466
+F1 score : 0.0
+----------------------------------
+threshold : 2.900000e-05
+Data count(Normal_and_Attack) : 120
+anomaly_count : 0
+Data count(Only Normal) : 758
+false_positive_count : 140
+Recall : 0.0
+Precision : 0.0
+FPR(False Positive Rate) : 0.18469656992084432
+F1 score : 0.0
+----------------------------------
+threshold : 2.950000e-05
+Data count(Normal_and_Attack) : 120
+anomaly_count : 0
+Data count(Only Normal) : 758
+false_positive_count : 140
+Recall : 0.0
+Precision : 0.0
+FPR(False Positive Rate) : 0.18469656992084432
+F1 score : 0.0
+----------------------------------
+threshold : 3.000000e-05
+Data count(Normal_and_Attack) : 120
+anomaly_count : 0
+Data count(Only Normal) : 758
+false_positive_count : 140
+Recall : 0.0
+Precision : 0.0
+FPR(False Positive Rate) : 0.18469656992084432
+F1 score : 0.0
+----------------------------------
+threshold : 3.050000e-05
+Data count(Normal_and_Attack) : 120
+anomaly_count : 0
+Data count(Only Normal) : 758
+false_positive_count : 140
+Recall : 0.0
+Precision : 0.0
+FPR(False Positive Rate) : 0.18469656992084432
+F1 score : 0.0
+----------------------------------
+threshold : 3.100000e-05
+Data count(Normal_and_Attack) : 120
+anomaly_count : 0
+Data count(Only Normal) : 758
+false_positive_count : 139
+Recall : 0.0
+Precision : 0.0
+FPR(False Positive Rate) : 0.18337730870712401
+F1 score : 0.0
+----------------------------------
+threshold : 3.150000e-05
+Data count(Normal_and_Attack) : 120
+anomaly_count : 0
+Data count(Only Normal) : 758
+false_positive_count : 73
+Recall : 0.0
+Precision : 0.0
+FPR(False Positive Rate) : 0.09630606860158311
+F1 score : 0.0
+----------------------------------
+threshold : 3.200000e-05
+Data count(Normal_and_Attack) : 120
+anomaly_count : 0
+Data count(Only Normal) : 758
+false_positive_count : 53
+Recall : 0.0
+Precision : 0.0
+FPR(False Positive Rate) : 0.06992084432717678
+F1 score : 0.0
+----------------------------------
+threshold : 3.250000e-05
+Data count(Normal_and_Attack) : 120
+anomaly_count : 0
+Data count(Only Normal) : 758
+false_positive_count : 47
+Recall : 0.0
+Precision : 0.0
+FPR(False Positive Rate) : 0.06200527704485488
+F1 score : 0.0
+----------------------------------
+threshold : 3.300000e-05
+Data count(Normal_and_Attack) : 120
+anomaly_count : 0
+Data count(Only Normal) : 758
+false_positive_count : 36
+Recall : 0.0
+Precision : 0.0
+FPR(False Positive Rate) : 0.047493403693931395
+F1 score : 0.0
+----------------------------------
+threshold : 3.350000e-05
+Data count(Normal_and_Attack) : 120
+anomaly_count : 0
+Data count(Only Normal) : 758
+false_positive_count : 32
+Recall : 0.0
+Precision : 0.0
+FPR(False Positive Rate) : 0.04221635883905013
+F1 score : 0.0
+----------------------------------
+threshold : 3.400000e-05
+Data count(Normal_and_Attack) : 120
+anomaly_count : 0
+Data count(Only Normal) : 758
+false_positive_count : 27
+Recall : 0.0
+Precision : 0.0
+FPR(False Positive Rate) : 0.03562005277044855
+F1 score : 0.0
+----------------------------------
+threshold : 3.450000e-05
+Data count(Normal_and_Attack) : 120
+anomaly_count : 0
+Data count(Only Normal) : 758
+false_positive_count : 26
+Recall : 0.0
+Precision : 0.0
+FPR(False Positive Rate) : 0.03430079155672823
+F1 score : 0.0
+----------------------------------
+threshold : 3.500000e-05
+Data count(Normal_and_Attack) : 120
+anomaly_count : 0
+Data count(Only Normal) : 758
+false_positive_count : 24
+Recall : 0.0
+Precision : 0.0
+FPR(False Positive Rate) : 0.0316622691292876
+F1 score : 0.0
+----------------------------------
+threshold : 3.550000e-05
+Data count(Normal_and_Attack) : 120
+anomaly_count : 0
+Data count(Only Normal) : 758
+false_positive_count : 21
+Recall : 0.0
+Precision : 0.0
+FPR(False Positive Rate) : 0.027704485488126648
+F1 score : 0.0
+----------------------------------
+threshold : 3.600000e-05
+Data count(Normal_and_Attack) : 120
+anomaly_count : 0
+Data count(Only Normal) : 758
+false_positive_count : 18
+Recall : 0.0
+Precision : 0.0
+FPR(False Positive Rate) : 0.023746701846965697
+F1 score : 0.0
+----------------------------------
+threshold : 3.650000e-05
+Data count(Normal_and_Attack) : 120
+anomaly_count : 0
+Data count(Only Normal) : 758
+false_positive_count : 13
+Recall : 0.0
+Precision : 0.0
+FPR(False Positive Rate) : 0.017150395778364115
+F1 score : 0.0
+----------------------------------
+threshold : 3.700000e-05
+Data count(Normal_and_Attack) : 120
+anomaly_count : 0
+Data count(Only Normal) : 758
+false_positive_count : 13
+Recall : 0.0
+Precision : 0.0
+FPR(False Positive Rate) : 0.017150395778364115
+F1 score : 0.0
+----------------------------------
+threshold : 3.750000e-05
+Data count(Normal_and_Attack) : 120
+anomaly_count : 0
+Data count(Only Normal) : 758
+false_positive_count : 11
+Recall : 0.0
+Precision : 0.0
+FPR(False Positive Rate) : 0.014511873350923483
+F1 score : 0.0
+----------------------------------
+threshold : 3.800000e-05
+Data count(Normal_and_Attack) : 120
+anomaly_count : 0
+Data count(Only Normal) : 758
+false_positive_count : 8
+Recall : 0.0
+Precision : 0.0
+FPR(False Positive Rate) : 0.010554089709762533
+F1 score : 0.0
+----------------------------------
+threshold : 3.850000e-05
+Data count(Normal_and_Attack) : 120
+anomaly_count : 0
+Data count(Only Normal) : 758
+false_positive_count : 8
+Recall : 0.0
+Precision : 0.0
+FPR(False Positive Rate) : 0.010554089709762533
+F1 score : 0.0
+----------------------------------
+threshold : 3.900000e-05
+Data count(Normal_and_Attack) : 120
+anomaly_count : 0
+Data count(Only Normal) : 758
+false_positive_count : 5
+Recall : 0.0
+Precision : 0.0
+FPR(False Positive Rate) : 0.006596306068601583
+F1 score : 0.0
+----------------------------------
+threshold : 3.950000e-05
+Data count(Normal_and_Attack) : 120
+anomaly_count : 0
+Data count(Only Normal) : 758
+false_positive_count : 5
+Recall : 0.0
+Precision : 0.0
+FPR(False Positive Rate) : 0.006596306068601583
+F1 score : 0.0
+----------------------------------
+threshold : 4.000000e-05
+Data count(Normal_and_Attack) : 120
+anomaly_count : 0
+Data count(Only Normal) : 758
+false_positive_count : 4
+Recall : 0.0
+Precision : 0.0
+FPR(False Positive Rate) : 0.005277044854881266
+F1 score : 0.0
+----------------------------------
+threshold : 4.050000e-05
+Data count(Normal_and_Attack) : 120
+anomaly_count : 0
+Data count(Only Normal) : 758
+false_positive_count : 4
+Recall : 0.0
+Precision : 0.0
+FPR(False Positive Rate) : 0.005277044854881266
+F1 score : 0.0
+----------------------------------
+threshold : 4.100000e-05
+Data count(Normal_and_Attack) : 120
+anomaly_count : 0
+Data count(Only Normal) : 758
+false_positive_count : 4
+Recall : 0.0
+Precision : 0.0
+FPR(False Positive Rate) : 0.005277044854881266
+F1 score : 0.0
+----------------------------------
+threshold : 4.150000e-05
+Data count(Normal_and_Attack) : 120
+anomaly_count : 0
+Data count(Only Normal) : 758
+false_positive_count : 4
+Recall : 0.0
+Precision : 0.0
+FPR(False Positive Rate) : 0.005277044854881266
+F1 score : 0.0
+----------------------------------
+threshold : 4.200000e-05
+Data count(Normal_and_Attack) : 120
+anomaly_count : 0
+Data count(Only Normal) : 758
+false_positive_count : 3
+Recall : 0.0
+Precision : 0.0
+FPR(False Positive Rate) : 0.00395778364116095
+F1 score : 0.0
+----------------------------------
+threshold : 4.250000e-05
+Data count(Normal_and_Attack) : 120
+anomaly_count : 0
+Data count(Only Normal) : 758
+false_positive_count : 3
+Recall : 0.0
+Precision : 0.0
+FPR(False Positive Rate) : 0.00395778364116095
+F1 score : 0.0
+----------------------------------
+threshold : 4.300000e-05
+Data count(Normal_and_Attack) : 120
+anomaly_count : 0
+Data count(Only Normal) : 758
+false_positive_count : 3
+Recall : 0.0
+Precision : 0.0
+FPR(False Positive Rate) : 0.00395778364116095
+F1 score : 0.0
+----------------------------------
+threshold : 4.350000e-05
+Data count(Normal_and_Attack) : 120
+anomaly_count : 0
+Data count(Only Normal) : 758
+false_positive_count : 2
+Recall : 0.0
+Precision : 0.0
+FPR(False Positive Rate) : 0.002638522427440633
+F1 score : 0.0
+----------------------------------
+threshold : 4.400000e-05
+Data count(Normal_and_Attack) : 120
+anomaly_count : 0
+Data count(Only Normal) : 758
+false_positive_count : 1
+Recall : 0.0
+Precision : 0.0
+FPR(False Positive Rate) : 0.0013192612137203166
+F1 score : 0.0
+----------------------------------
+threshold : 4.450000e-05
+Data count(Normal_and_Attack) : 120
+anomaly_count : 0
+Data count(Only Normal) : 758
+false_positive_count : 1
+Recall : 0.0
+Precision : 0.0
+FPR(False Positive Rate) : 0.0013192612137203166
+F1 score : 0.0
+----------------------------------
+threshold : 4.500000e-05
+Data count(Normal_and_Attack) : 120
+anomaly_count : 0
+Data count(Only Normal) : 758
+false_positive_count : 1
+Recall : 0.0
+Precision : 0.0
+FPR(False Positive Rate) : 0.0013192612137203166
+F1 score : 0.0
+----------------------------------
+threshold : 4.550000e-05
+Data count(Normal_and_Attack) : 120
+anomaly_count : 0
+Data count(Only Normal) : 758
+false_positive_count : 1
+Recall : 0.0
+Precision : 0.0
+FPR(False Positive Rate) : 0.0013192612137203166
+F1 score : 0.0
+----------------------------------
+threshold : 4.600000e-05
+Data count(Normal_and_Attack) : 120
+anomaly_count : 0
+Data count(Only Normal) : 758
+false_positive_count : 1
+Recall : 0.0
+Precision : 0.0
+FPR(False Positive Rate) : 0.0013192612137203166
+F1 score : 0.0
+----------------------------------
+threshold : 4.650000e-05
+Data count(Normal_and_Attack) : 120
+anomaly_count : 0
+Data count(Only Normal) : 758
+false_positive_count : 1
+Recall : 0.0
+Precision : 0.0
+FPR(False Positive Rate) : 0.0013192612137203166
+F1 score : 0.0
+----------------------------------
+threshold : 4.700000e-05
+Data count(Normal_and_Attack) : 120
+anomaly_count : 0
+Data count(Only Normal) : 758
+false_positive_count : 1
+Recall : 0.0
+Precision : 0.0
+FPR(False Positive Rate) : 0.0013192612137203166
+F1 score : 0.0
+----------------------------------
+threshold : 4.750000e-05
+Data count(Normal_and_Attack) : 120
+anomaly_count : 0
+Data count(Only Normal) : 758
+false_positive_count : 0
+Recall : 0.0
+Precision : 0.0
+FPR(False Positive Rate) : 0.0
+F1 score : 0.0
+----------------------------------
+threshold : 4.800000e-05
+Data count(Normal_and_Attack) : 120
+anomaly_count : 0
+Data count(Only Normal) : 758
+false_positive_count : 0
+Recall : 0.0
+Precision : 0.0
+FPR(False Positive Rate) : 0.0
+F1 score : 0.0
+----------------------------------
+threshold : 4.850000e-05
+Data count(Normal_and_Attack) : 120
+anomaly_count : 0
+Data count(Only Normal) : 758
+false_positive_count : 0
+Recall : 0.0
+Precision : 0.0
+FPR(False Positive Rate) : 0.0
+F1 score : 0.0
+----------------------------------
+threshold : 4.900000e-05
+Data count(Normal_and_Attack) : 120
+anomaly_count : 0
+Data count(Only Normal) : 758
+false_positive_count : 0
+Recall : 0.0
+Precision : 0.0
+FPR(False Positive Rate) : 0.0
+F1 score : 0.0
+----------------------------------
+threshold : 4.950000e-05
+Data count(Normal_and_Attack) : 120
+anomaly_count : 0
+Data count(Only Normal) : 758
+false_positive_count : 0
+Recall : 0.0
+Precision : 0.0
+FPR(False Positive Rate) : 0.0
+F1 score : 0.0
+----------------------------------
+threshold : 5.000000e-05
+Data count(Normal_and_Attack) : 120
+anomaly_count : 0
+Data count(Only Normal) : 758
+false_positive_count : 0
+Recall : 0.0
+Precision : 0.0
+FPR(False Positive Rate) : 0.0
+F1 score : 0.0
+----------------------------------
